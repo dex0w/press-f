@@ -1,0 +1,58 @@
+[29-Mar-2025 08:31:35 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\pressf\pages\profile.php on line 9
+[29-Mar-2025 08:31:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\pressf\pages\profile.php on line 9
+[29-Mar-2025 08:31:47 Europe/Berlin] Начало обработки загрузки аватарки
+[29-Mar-2025 08:31:47 Europe/Berlin] Путь для загрузки: C:\xampp\htdocs\pressf\pages/../../assets/images/avatars/
+[29-Mar-2025 08:31:47 Europe/Berlin] Информация о файле: Array
+(
+    [name] => def808a781bca0b162d7a7b0fe960d9d.jpg
+    [full_path] => def808a781bca0b162d7a7b0fe960d9d.jpg
+    [type] => image/jpeg
+    [tmp_name] => C:\xampp\tmp\php4793.tmp
+    [error] => 0
+    [size] => 41461
+)
+
+[29-Mar-2025 08:31:47 Europe/Berlin] Путь сохранения: C:\xampp\htdocs\pressf\pages/../../assets/images/avatars/user_9_1743233507.jpg
+[29-Mar-2025 08:31:47 Europe/Berlin] Файл успешно загружен
+[29-Mar-2025 08:31:47 Europe/Berlin] Аватар успешно обновлен для пользователя: 9
+[29-Mar-2025 08:31:47 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\pressf\includes\header.php:7) in C:\xampp\htdocs\pressf\pages\profile.php on line 89
+[29-Mar-2025 08:31:49 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\pressf\pages\profile.php on line 9
+[29-Mar-2025 08:31:50 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\pressf\pages\profile.php on line 9
+[29-Mar-2025 08:32:24 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\pressf\pages\profile.php on line 9
+[29-Mar-2025 08:33:44 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\pressf\pages\profile.php on line 9
+[29-Mar-2025 08:33:44 Europe/Berlin] Начало обработки загрузки аватарки
+[29-Mar-2025 08:33:44 Europe/Berlin] Путь для загрузки: C:\xampp\htdocs\pressf\pages/../../assets/images/avatars/
+[29-Mar-2025 08:33:44 Europe/Berlin] Информация о файле: Array
+(
+    [name] => H04tr6MUOiyOh1gdVr-e2Sudb5Lu0PTTOHVjA0Exz4juHNE0pkJx4yA1HUjvxEc4Qs8oktpKMMlPw9yZbNBuHYFd.jpg
+    [full_path] => H04tr6MUOiyOh1gdVr-e2Sudb5Lu0PTTOHVjA0Exz4juHNE0pkJx4yA1HUjvxEc4Qs8oktpKMMlPw9yZbNBuHYFd.jpg
+    [type] => image/jpeg
+    [tmp_name] => C:\xampp\tmp\php1242.tmp
+    [error] => 0
+    [size] => 19319
+)
+
+[29-Mar-2025 08:33:44 Europe/Berlin] Путь сохранения: C:\xampp\htdocs\pressf\pages/../../assets/images/avatars/user_9_1743233624.jpg
+[29-Mar-2025 08:33:44 Europe/Berlin] Файл успешно загружен
+[29-Mar-2025 08:33:44 Europe/Berlin] Аватар успешно обновлен для пользователя: 9
+[29-Mar-2025 08:33:44 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\pressf\includes\header.php:7) in C:\xampp\htdocs\pressf\pages\profile.php on line 89
+[29-Mar-2025 08:33:49 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\pressf\pages\profile.php on line 9
+[29-Mar-2025 08:33:53 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\pressf\pages\profile.php on line 9
+[29-Mar-2025 08:34:34 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\pressf\pages\profile.php on line 9
+[29-Mar-2025 08:34:34 Europe/Berlin] Начало обработки загрузки аватарки
+[29-Mar-2025 08:34:34 Europe/Berlin] Путь для загрузки: C:\xampp\htdocs\pressf\pages/../../assets/images/avatars/
+[29-Mar-2025 08:34:34 Europe/Berlin] Информация о файле: Array
+(
+    [name] => 270caf737817dc13f477d7d871fea64e.gif
+    [full_path] => 270caf737817dc13f477d7d871fea64e.gif
+    [type] => image/gif
+    [tmp_name] => C:\xampp\tmp\phpD46A.tmp
+    [error] => 0
+    [size] => 4032740
+)
+
+[29-Mar-2025 08:34:34 Europe/Berlin] Путь сохранения: C:\xampp\htdocs\pressf\pages/../../assets/images/avatars/user_9_1743233674.gif
+[29-Mar-2025 08:34:34 Europe/Berlin] Файл успешно загружен
+[29-Mar-2025 08:34:34 Europe/Berlin] Аватар успешно обновлен для пользователя: 9
+[29-Mar-2025 08:34:34 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\pressf\includes\header.php:7) in C:\xampp\htdocs\pressf\pages\profile.php on line 89
+[29-Mar-2025 08:34:36 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\pressf\pages\profile.php on line 9
